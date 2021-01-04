@@ -1,5 +1,5 @@
 class Solution {
-    static int stray(int[] numbers) {
+    static int stray(int[] n) {
          Arrays.sort(n); //Array.sort = A Java program to sort an array of integers in ascending order.
         /*
         so if teh array is [17,17,17,17,17,3,17,17] it will sorted to [3,17,17,17,17,17,17,17]
